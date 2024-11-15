@@ -14,6 +14,18 @@ The PDF Viewer Project is a modern web application built using React that allows
 - **User -Friendly Interface**: The layout is clean and intuitive, making it easy for users of all technical levels to navigate the PDF viewer.
 - **Customizable Styles**: The application allows for easy customization of styles, enabling developers to adjust the look and feel to match their branding.
 
+
+## Demo Image
+![Screenshot 2024-11-15 062056](https://github.com/user-attachments/assets/06784dca-12f1-4ebd-b7d3-54b92a80f1a4)
+
+## Demo Video
+
+
+https://github.com/user-attachments/assets/74ec2ff3-c49d-49e0-a6d3-440b46c6e056
+
+
+
+
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces, enabling a component-based architecture.
