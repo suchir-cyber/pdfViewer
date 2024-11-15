@@ -70,7 +70,7 @@ REACT_APP_APP_ID=your-app-id
 
 ```
 
-4. Start the Development Server
+### 4. Start the Development Server
 
 To start the development server, run:
 
