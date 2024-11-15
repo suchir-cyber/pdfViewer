@@ -2,7 +2,8 @@
 
  # Description
 
-    The PDF Viewer Project is a modern web application built using React that allows users to view and navigate PDF documents directly in their browsers. This application is tailored for both administrators and viewers, providing distinct functionalities to enhance the user experience. The integration of Firebase ensures real-time updates and synchronization, making it ideal for collaborative environments.
+       The PDF Viewer Project is a modern web application built using React that allows users to view and navigate PDF documents directly in their browsers. This application is tailored for both administrators and viewers, providing distinct functionalities to enhance the user experience. The integration of Firebase ensures real-time updates and synchronization, making it ideal for collaborative environments.
+    
 
 
 # Key Features:
