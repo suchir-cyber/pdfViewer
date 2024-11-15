@@ -8,7 +8,7 @@ import { doc, onSnapshot, setDoc } from 'firebase/firestore';
 GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/2.16.105/pdf.worker.min.js`;
 
 function PDFViewer() {
-  const [pdfUrl] = useState('/probability.pdf');
+  const [pdfUrl] = useState('/dbms.pdf');
   const [currentPage, setCurrentPage] = useState(1);
   const [isAdmin] = useState(true);  // for admin (isAdmin=true) for viewer (isAdmin=false)
 
