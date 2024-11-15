@@ -20,6 +20,61 @@ The PDF Viewer Project is a modern web application built using React that allows
 - **Firebase**: A comprehensive platform for developing web applications, providing authentication, Firestore database, and storage solutions.
 - **PDF.js**: A powerful library for rendering PDF documents in web applications, allowing for high-quality viewing experiences.
 
+## Installation
+
+
+Follow these steps to set up the project locally:
+
+
+### 1. Clone the Repository
+
+
+Open your terminal and run the following command to clone the repository:
+
+
+```bash
+
+git clone https://github.com/saivishal87/Pdf_presentation.git
+
+cd Pdf_presentation
+
+2. Install Dependencies
+
+Once you have cloned the repository, install the required dependencies by running:
+
+bash
+
+npm install
+
+3. Set Up Firebase Configuration
+
+Create a .env file in the root directory of your project and add your Firebase configuration details. The .env file should contain the following variables:
+
+REACT_APP_API_KEY=your-api-key
+
+REACT_APP_AUTH_DOMAIN=your-auth-domain
+
+REACT_APP_PROJECT_ID=your-project-id
+
+REACT_APP_STORAGE_BUCKET=your-storage-bucket
+
+REACT_APP_MESSAGING_SENDER_ID=your-messaging-sender-id
+
+REACT_APP_APP_ID=your-app-id
+
+4. Start the Development Server
+
+To start the development server, run:
+
+bash
+
+npm start
+
+The app will be available at http://localhost:3000.
+
+
+
+
 ## Features in Action
 
 - **Admin Mode**: As an admin, you can navigate through the PDF document, and any changes will be updated in real-time for all viewers.
