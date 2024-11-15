@@ -34,21 +34,27 @@ Open your terminal and run the following command to clone the repository:
 
 ```bash
 
-git clone https://github.com/saivishal87/Pdf_presentation.git
+git clone https://github.com/suchir-cyber/pdfViewer.git
 
-cd Pdf_presentation
+cd pdfviewer
 
-2. Install Dependencies
+```
+
+### 2. Install Dependencies
 
 Once you have cloned the repository, install the required dependencies by running:
 
-bash
+```bash
 
 npm install
 
-3. Set Up Firebase Configuration
+```
+
+### 3. Set Up Firebase Configuration
 
 Create a .env file in the root directory of your project and add your Firebase configuration details. The .env file should contain the following variables:
+
+```bash
 
 REACT_APP_API_KEY=your-api-key
 
@@ -62,13 +68,17 @@ REACT_APP_MESSAGING_SENDER_ID=your-messaging-sender-id
 
 REACT_APP_APP_ID=your-app-id
 
+```
+
 4. Start the Development Server
 
 To start the development server, run:
 
-bash
+```bash
 
 npm start
+
+```
 
 The app will be available at http://localhost:3000.
 
